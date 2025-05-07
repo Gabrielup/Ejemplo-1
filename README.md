@@ -11,7 +11,7 @@
 - **Diseño plegable** para fácil transporte
 - **Motores de 12V** con transmisión por engranajes (relación 14:44)
 
-![Prototipo Freedom Wheel_1]()
+![Joystick](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOhW9aQDupVRuHa6cX1jG1n25HnJGcKygmCQ&s)
 
 
 ## Componentes Clave
@@ -22,6 +22,9 @@
 | Motores MY6812 | SolidWorks (diseño) |
 | Batería Li-ion 12V 20Ah | Altium Designer (PCB) |
 | Joystick Shield | Proteus (simulación) |
+
+![Arduino Mega 2560](https://github.com/user-attachments/assets/48a8ebd3-aaa9-4475-8ede-9baf3b4de8aa)
+
 
 ## Características Técnicas
 
