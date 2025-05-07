@@ -11,6 +11,9 @@
 - **Diseño plegable** para fácil transporte
 - **Motores de 12V** con transmisión por engranajes (relación 14:44)
 
+![Prototipo Freedom Wheel_1]()
+
+
 ## Componentes Clave
 | Hardware | Software |
 |----------|----------|
