@@ -1,3 +1,5 @@
+
+
 # Freedom Wheel - Silla de Ruedas Inteligente
 
 ![Prototipo Freedom Wheel](https://i5.walmartimages.com/asr/35eec59a-2f54-422d-aa4c-32fabd4e4e61.86fbe6eb680545c307289b6f5a7ff94c.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF)  
